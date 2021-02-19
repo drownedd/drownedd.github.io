@@ -1,0 +1,23 @@
+h1{
+  color: blue;
+  font-family: monospace;
+}
+
+h2{
+  color: green;
+  font-family: monospace;
+}
+
+p{
+  font-family: monospace;
+}
+
+form{
+  background-color: silver;
+  padding-top: 50px;
+}
+
+main{
+  padding-left: 200px;
+  padding-right: 200px;
+}

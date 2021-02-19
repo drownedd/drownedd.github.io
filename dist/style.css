@@ -10,17 +10,11 @@ h2{
 
 p{
   font-family: monospace;
-  padding: 5px;
 }
 
 form{
   background-color: silver;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  padding-left: 200px;
-  width: 100vw;
-  position: relative;
-  left: calc(-50vw + 50%);
+  padding-top: 50px;
 }
 
 main{
